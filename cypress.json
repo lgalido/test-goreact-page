@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://get.goreact.com/sign-up-select/",
+    "projectId": "cszt56",
+    "requestTimeout": 60000,
+    "defaultCommandTimeout":60000,
+    "execTimeout": 60000,
+    "responseTimeout": 60000,	
+    "pageLoadTimeout": 60000,
+    "chromeWebSecurity": false,
+    "videoUploadOnPasses": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 600,
+    "blacklistHosts": ["*fonts.googleapis.com"]
+    }

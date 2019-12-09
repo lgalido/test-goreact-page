@@ -1,0 +1,8 @@
+node_modules
+*.log
+cypress/screenshots
+cypress/videos
+cypress/logs
+cypress/fixtures/example.json
+.history
+.vscode

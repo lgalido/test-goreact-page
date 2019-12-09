@@ -1,0 +1,17 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "test only",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "LG",
+  "license": "ISC"
+}
